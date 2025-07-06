@@ -4,6 +4,9 @@
 
 🎉 感谢你的到访,希望你可以找到自己需要的东西
 
+- link: https://hexo.io
+  shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Frame-Hexo.svg
+  message: 博客框架为Hexo_v5.4.0 
 [My blog](https://blog.drliu.hidns.vip)
 
 
