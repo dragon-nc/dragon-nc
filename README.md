@@ -4,6 +4,9 @@
 
 🎉 感谢你的到访,希望你可以找到自己需要的东西
 
+![](https://camo.githubusercontent.com/732b3ffb18e95fdda66b0b9776a54642f2496073dc5df56326ef6a57d9f4dcb8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636d6c69752673686f775f69636f6e733d74727565267468656d653d44656661756c74266c6f63616c653d636e26686964653d7072732672616e6b5f69636f6e3d676974687562
+)
+
 <!--
 **dragon-nc/dragon-nc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
