@@ -4,11 +4,7 @@
 
 🎉 感谢你的到访,希望你可以找到自己需要的东西
 
-- link: https://hexo.io
-  shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Frame-Hexo.svg
-  message: 博客框架为Hexo_v5.4.0 
-[My blog](https://blog.drliu.hidns.vip)
-
+[![我的博客](https://img.shields.io/badge/my_blog-我的博客-8A2BE)](https://blog.drliu.hidns.vip/ )
 
 <!--
 **dragon-nc/dragon-nc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
